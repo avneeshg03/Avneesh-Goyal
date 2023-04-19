@@ -30,8 +30,8 @@
 ## 🏆 *Github Status*
 
 <p>
-  <img row=1 column=2 height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=AvneeshGoyal&show_icons=true&locale=en&layout=compact&theme=monokai" alt="AvneeshGoyal" />
-  <img row=1 column=2 height=160 src="https://github-readme-stats.vercel.app/api?username=AvneeshGoyal&show_icons=true&locale=en&theme=monokai" alt="AvneeshGoyal" />
+  <img row=1 column=2 height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=avneeshg03&show_icons=true&locale=en&layout=compact&theme=monokai" alt="avneeshg03" />
+  <img row=1 column=2 height=160 src="https://github-readme-stats.vercel.app/api?username=avneeshg03&show_icons=true&locale=en&theme=monokai" alt="avneeshg03" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AvneeshGoyal&row=1&column=8&no-frame=true&theme=monokai" alt="AvneeshGoyal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avneeshg03&row=1&column=8&no-frame=true&theme=monokai" alt="avneeshg03" /></a> </p>
